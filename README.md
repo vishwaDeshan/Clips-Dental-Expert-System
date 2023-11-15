@@ -33,7 +33,7 @@ This expert system assists users in identifying potential dental issues based on
 4. Load the expert system:
 
     ```bash
-    (load "tooth_problem_expert.clp")
+    (load "TeethProblems.clp")
     ```
 
 5. Start the system:
